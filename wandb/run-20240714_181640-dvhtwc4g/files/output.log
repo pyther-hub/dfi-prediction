@@ -30,3 +30,4 @@ Traceback (most recent call last):
   File "/Users/sudhanshurai/.pyenv/versions/3.9.10/lib/python3.9/multiprocessing/spawn.py", line 126, in _main
     self = reduction.pickle.load(from_parent)
 AttributeError: Can't get attribute 'CustomImageDataset' on <module '__main__' (built-in)>
+Training:   0%|          | 0/29 [00:02<?, ?it/s]
